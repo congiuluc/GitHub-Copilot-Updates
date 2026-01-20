@@ -702,7 +702,7 @@ Examples:
     
     args = parser.parse_args()
     
-    current_dir = Path(os.path.dirname(os.path.abspath(__file__)))
+    current_dir = Path(os.path.dirname(os.path.abspath(__file__))).parent
     updates_dir = current_dir / 'updates'
     
     if not updates_dir.exists():

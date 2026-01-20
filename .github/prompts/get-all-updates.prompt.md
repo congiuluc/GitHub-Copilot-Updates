@@ -12,6 +12,12 @@ This workflow provides a systematic three-stage process for generating GitHub Co
 
 ---
 
+## Critical Instruction
+
+**Do NOT create other scripts or tools to generate files from URLs.** Use only the existing workflow and manual processes defined in this prompt. All file generation must follow the documented stages and procedures without creating additional automation scripts.
+
+---
+
 ## Stage 1: Input Collection
 
 **Request the following from the user:**

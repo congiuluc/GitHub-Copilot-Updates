@@ -1,3 +1,5 @@
+# Repo archived, please use: https://github.com/g-mercuri/copilot-updates
+
 # 🚀 GitHub Copilot Updates Generator
 
 Welcome! This tool helps you automatically generate using **GitHub Copilot Agent** professional PowerPoint presentations summarizing the latest GitHub Copilot updates. 
